@@ -29,12 +29,12 @@ Space Smasher comes with several exciting gameplay elements:
 ## Installation
 
 ### Windows Users
-1. Download the Windows-Build folder
+1. Download the Windows-Build folder or the Windows_Build.rar in release
 2. Extract all files if they're in a zip/rar format
 3. Run SpaceSmasher.exe
 
 ### Mac Users
-1. Download the Mac-Build folder
+1. Download the Mac-Build folder or the Mac_Build.rar in release
 2. Extract all files if they're in a zip/rar format
 3. Run SpaceSmasher.app
 
